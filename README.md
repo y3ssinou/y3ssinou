@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="StreamRoom.gif" width="500" alt="Pixel art d'un développeur codant" />
+  <img src="StreamRoom2.gif" width="500" alt="Pixel art d'un développeur codant" />
 </p>
